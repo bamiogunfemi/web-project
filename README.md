@@ -1,0 +1,2 @@
+
+I created a responsive one-pager order form with basic validation using HTML, CSS, and JavaScript to show how a company would implement a web solution for ordering Computer Components. It collects customer details such as their name, contact information, and location to identify each customer. It then collects order details about the part brand and quantity needed to process the order. This data can then be used to create an invoice and request advance payment which can be sent to the customer or payment on delivery can be used as an available alternative.
